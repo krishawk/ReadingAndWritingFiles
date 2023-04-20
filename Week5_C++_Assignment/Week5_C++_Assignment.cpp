@@ -1,4 +1,9 @@
-
+// #############################################
+// NAME: KRISTEN HAWKINS
+// DATE: 4/8/2023
+// CS210 C++ PROGRAMMING LANGUAGE
+// READING AND WRITING FILES
+// #############################################
 
 
 #include <iostream>
